@@ -44,3 +44,11 @@ Given the attributes of the "final platform" and the needs of knowledge workers:
 - **Customizable & Secure:** AVP's visionOS is likely to support a wide array of apps, allowing professionals to tailor their toolset. Features like OpticID ensure security and privacy.
 
 In essence, Apple Vision Pro encapsulates the functionalities of previous platforms, from the tactile nature of pencil and paper to the computational power of desktops, combined with the mobility of tablets and phones, all while adding a layer of spatial interactivity. This convergence, coupled with its innovative features, positions AVP as a platform that may, for a considerable time, fulfill the comprehensive needs of knowledge workers, making radical shifts to newer platforms less urgent.
+
+## Definitions
+
+**Knowledge Work:**
+n. Intellectual labor encompassing tasks that involve handling, analyzing, and generating information; work that primarily requires cognitive skills and expertise rather than manual skills.
+
+**Knowledge Worker:**
+n. A professional primarily engaged in knowledge work; an individual who uses cognitive and analytical abilities to handle, process, or produce information, often relying on specialized knowledge or expertise.
