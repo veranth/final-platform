@@ -1,6 +1,6 @@
 ---
 title: "Final Platform Hypothesis"
-version: "v2023.08.06.1"
+version: "2023.08.06.1"
 created: "2023-08-06"
 modified: "2023-08-06"
 tags: ["hypothesis", "knowledge work", "Apple Vision Pro", "platform"]
